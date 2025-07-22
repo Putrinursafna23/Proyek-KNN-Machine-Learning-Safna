@@ -1,4 +1,4 @@
-import { Crown, Phone, MapPin } from "lucide-react"
+import { Phone, MapPin } from "lucide-react"
 
 const Header = () => {
   return (
@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-6">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="flex items-center gap-3 mb-4 md:mb-0">
-            <Crown className="w-8 h-8" />
+            <img src="/Kalla-Logo-Icon.png" alt="Kalla Logo" className="w-8 h-8" />
             <div>
               <h1 className="text-2xl font-bold">Saoraja Ballroom</h1>
               <p className="text-primary-foreground/80 text-sm">Lebih Cepat Lebih Baik</p>
