@@ -5,7 +5,7 @@
 
 Halo, saya **Putri Nur Safna**, mahasiswi Digital Business dari **Universitas Negeri Makassar**, angkatan 2022. Saya memiliki ketertarikan yang kuat pada dunia bisnis dan transformasi digital, khususnya bagaimana teknologi dapat digunakan untuk menganalisis perilaku konsumen dan mengembangkan strategi bisnis berbasis data.
 
-Bagi saya, bisnis tidak hanya soal penjualan, tapi juga bagaimana **membangun ekosistem digital** yang cerdas, responsif, dan relevan dengan zaman. Melalui proyek ini, saya ingin menunjukkan bagaimana teknologi seperti **machine learning** dan desain sistem interaktif bisa menjadi solusi strategis di era digitalisasi.
+Bagi saya, bisnis tidak hanya soal penjualan, tapi juga bagaimana **membangun ekosistem digital** yang cerdas, responsif, dan relevan dengan zaman teknologi saat ini. Melalui proyek ini, saya ingin menunjukkan bagaimana teknologi seperti **machine learning** dan desain sistem interaktif bisa menjadi solusi strategis di era digitalisasi.
 
 > “In the modern world of business, it’s not the big that eat the small… it’s the fast that eat the slow.”  
 > — Jason Jennings
